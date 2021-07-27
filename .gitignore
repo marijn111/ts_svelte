@@ -1,0 +1,5 @@
+/github-users-app/node_modules/
+/github-users-app/public/build/
+
+.DS_Store
+.idea*
