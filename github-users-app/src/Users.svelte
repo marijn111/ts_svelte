@@ -1,5 +1,5 @@
 <script lang="ts">
-    import UserDetails from "./UserDetail.svelte";
+    import UserDetails from "./UserDetails.svelte";
 
     type User = {
         login: string;
